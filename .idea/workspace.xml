@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96c95efe-e0c2-487c-be5a-4a51c9441662" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.dart_tool/" />
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <ignored path="$PROJECT_DIR$/.pub/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_28--420dpi" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/com/ktx/net/multipartfile_covert.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/com/ktx/net/net.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-756">
+              <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/com/ktx/net/net_result.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>generateForAnnotatedElement</find>
+      <find>generate</find>
+      <find>connectTimeout</find>
+      <find>sendTimeout</find>
+      <find>options</find>
+      <find>MultiPartFileConverter</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/annotation_processor/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/annotation_processor/lib/builder.dart" />
+        <option value="$PROJECT_DIR$/annotation_processor/lib/mark_generator.dart" />
+        <option value="$PROJECT_DIR$/annotation_handler/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/lib/ktxhttp.dart" />
+        <option value="$PROJECT_DIR$/lib/mark_demo.dart" />
+        <option value="$PROJECT_DIR$/lib/mark_demo2.dart" />
+        <option value="$PROJECT_DIR$/lib/my_generator.dart" />
+        <option value="$PROJECT_DIR$/lib/ds.dart" />
+        <option value="C:/src/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub/source_gen-0.9.5/lib/src/generator_for_annotation.dart" />
+        <option value="$PROJECT_DIR$/lib/mark_demo.mark.dart" />
+        <option value="C:/src/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub/source_gen-0.9.5/lib/src/builder.dart" />
+        <option value="$PROJECT_DIR$/lib/mark_generator.dart" />
+        <option value="$PROJECT_DIR$/lib/test/AutoTypeParseUtil.dart" />
+        <option value="$PROJECT_DIR$/lib/test/A.dart" />
+        <option value="$PROJECT_DIR$/lib/bean/xiong_entity.dart" />
+        <option value="$PROJECT_DIR$/lib/com/ktx/net/paser.dart" />
+        <option value="$PROJECT_DIR$/build.yaml" />
+        <option value="$PROJECT_DIR$/lib/generated/json/base/json_convert_content.dart" />
+        <option value="$PROJECT_DIR$/lib/test/MyParse.dart" />
+        <option value="$PROJECT_DIR$/test/ktxhttp_test.dart" />
+        <option value="$PROJECT_DIR$/lib/test/result.dart" />
+        <option value="$PROJECT_DIR$/test/test.dart" />
+        <option value="$PROJECT_DIR$/lib/com/ktx/net/proxy_interface.dart" />
+        <option value="$PROJECT_DIR$/lib/com/ktx/net/proxy_net_interface.dart" />
+        <option value="$PROJECT_DIR$/lib/com/ktx/net/NetManager.dart" />
+        <option value="$PROJECT_DIR$/lib/com/ktx/net/multipartfile_covert.dart" />
+        <option value="$PROJECT_DIR$/lib/com/ktx/net/net.dart" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-244" />
+    <option name="y" value="81" />
+    <option name="width" value="1936" />
+    <option name="height" value="943" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ktx_http" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ktx_http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ktx_http" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ktx_http" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ktx_http" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ktx_http" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ktx_http" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ktx_http" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ktx_http" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\ktxnet\ktx_http\lib\com\ktx\net" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\ktxnet\ktx_http\test" />
+      <recent name="F:\ktxnet\ktx_http\lib\com\ktx\net" />
+      <recent name="F:\ktxnet\ktx_http\lib\bean" />
+      <recent name="F:\ktxnet\ktx_http\lib" />
+      <recent name="F:\ktxnet\ktx_http\annotation_handler\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Flutter Test.测试返回">
+    <configuration name="测试返回" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="测试返回" />
+      <option name="testFile" value="$PROJECT_DIR$/test/ktxhttp_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01测试返回[]" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="01测试返回[]" />
+      <option name="testFile" value="$PROJECT_DIR$/test/ktxhttp_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1测试返回[]" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="1测试返回[]" />
+      <option name="testFile" value="$PROJECT_DIR$/test/ktxhttp_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="测试返回[] (1)" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="测试返回[]" />
+      <option name="testFile" value="$PROJECT_DIR$/test/test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="测试返回[]" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="测试返回[]" />
+      <option name="testFile" value="$PROJECT_DIR$/test/ktxhttp_test.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter Test.测试返回" />
+        <item itemvalue="Flutter Test.测试返回[]" />
+        <item itemvalue="Flutter Test.1测试返回[]" />
+        <item itemvalue="Flutter Test.01测试返回[]" />
+        <item itemvalue="Flutter Test.测试返回[] (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96c95efe-e0c2-487c-be5a-4a51c9441662" name="Default Changelist" comment="" />
+      <created>1586834101393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586834101393</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="测试返回[] - 2020.04.15 at 14h 31m 49s.xml">
+      <configuration name="测试返回[]" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="测试返回[] - 2020.04.15 at 14h 32m 57s.xml">
+      <configuration name="测试返回[]" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="1测试返回[] - 2020.04.15 at 14h 33m 29s.xml">
+      <configuration name="1测试返回[]" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="测试返回[] - 2020.04.15 at 14h 36m 35s.xml">
+      <configuration name="测试返回[]" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="1测试返回[] - 2020.04.15 at 14h 37m 23s.xml">
+      <configuration name="1测试返回[]" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="测试返回[] - 2020.04.15 at 14h 38m 53s.xml">
+      <configuration name="测试返回[]" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="01测试返回[] - 2020.04.15 at 14h 40m 43s.xml">
+      <configuration name="01测试返回[]" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="1测试返回[] - 2020.04.15 at 14h 41m 51s.xml">
+      <configuration name="1测试返回[]" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="测试返回[] - 2020.04.15 at 14h 52m 47s.xml">
+      <configuration name="测试返回[]" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="测试返回[] - 2020.04.15 at 14h 53m 09s.xml">
+      <configuration name="测试返回[]" configurationId="FlutterTestConfigType" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.80497384" visible="true" weight="0.21512875" />
+      <window_info id="Structure" order="1" sideWeight="0.19502617" side_tool="true" visible="true" weight="0.21512875" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Resources Explorer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Dart Analysis" order="0" weight="0.32963374" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.19644839" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.32852387" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.48501664" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3529412" />
+      <window_info anchor="bottom" id="Find" order="8" visible="true" weight="0.15205327" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Flutter Inspector" order="2" />
+      <window_info anchor="right" id="Flutter Outline" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Flutter Performance" order="5" />
+      <window_info anchor="right" id="Hierarchy" order="6" visible="true" weight="0.020386266" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/test/MyParse.dart</url>
+          <line>38</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/test/MyParse.dart</url>
+          <line>40</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>T.runType</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>T</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>T is List&lt;ResProjectItem&gt;</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>T is List</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>response.data is List</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/src/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub/source_gen-0.9.5/lib/src/generator.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="54" column="45" lean-forward="true" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
+          <folding>
+            <element signature="e#217#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/src/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub/source_gen-0.9.5/lib/src/generated_output.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#1824#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/src/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub/build-1.2.2/lib/src/asset/id.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="130" column="51" lean-forward="true" selection-start-line="130" selection-start-column="51" selection-end-line="130" selection-end-column="51" />
+          <folding>
+            <element signature="e#1198#1253#0" />
+            <element signature="e#1507#1556#0" />
+            <element signature="e#2391#3179#0" />
+            <element signature="e#2424#2429#0" />
+            <element signature="e#2460#2921#0" />
+            <element signature="e#2503#2644#0" />
+            <element signature="e#2527#2635#0" />
+            <element signature="e#2683#2805#0" />
+            <element signature="e#2707#2796#0" />
+            <element signature="e#2834#2914#0" />
+            <element signature="e#2944#3073#0" />
+            <element signature="e#2977#3066#0" />
+            <element signature="e#3092#3174#0" />
+            <element signature="e#3183#3254#0" />
+            <element signature="e#3550#3621#0" />
+            <element signature="e#3579#3614#0" />
+            <element signature="e#3649#3749#0" />
+            <element signature="e#3678#3742#0" />
+            <element signature="e#3777#3858#0" />
+            <element signature="e#3806#3851#0" />
+            <element signature="e#3878#3898#0" />
+            <element signature="e#3907#3980#0" />
+            <element signature="e#4161#4231#0" />
+            <element signature="e#4713#4859#0" />
+            <element signature="e#4863#4939#0" />
+            <element signature="e#5254#5304#0" />
+            <element signature="e#5363#5438#0" />
+            <element signature="e#5561#6010#0" />
+            <element signature="e#5589#5664#0" />
+            <element signature="e#5620#5659#0" />
+            <element signature="e#5887#5988#0" />
+            <element signature="e#5918#5983#0" />
+            <element signature="e#6042#6340#0" />
+            <element signature="e#6271#6337#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/src/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub/build-1.2.2/lib/src/builder/build_step.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/src/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub/source_gen-0.9.5/lib/src/builder.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="308" column="46" lean-forward="true" selection-start-line="308" selection-start-column="46" selection-end-line="308" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/src/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub/build-1.2.2/lib/src/asset/exceptions.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1534#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/src/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub/source_gen-0.9.5/lib/src/generator_for_annotation.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-177">
+          <caret line="42" column="15" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
+          <folding>
+            <element signature="e#217#237#0" expanded="true" />
+            <element signature="e#467#524#0" />
+            <element signature="e#1776#1779#0" />
+            <element signature="e#2339#2401#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/src/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub/build-1.2.2/lib/src/builder/builder.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/src/flutter/bin/cache/pkg/sky_engine/lib/html/html_dart2js.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="15333" column="46" selection-start-line="15333" selection-start-column="46" selection-end-line="15333" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/mark_demo2.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/mark_demo.mark.dart" />
+    <entry file="file://C:/src/flutter/bin/cache/pkg/sky_engine/lib/core/type.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bean/response_contract_deposit_info.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="53" lean-forward="true" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/test/A.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/mark_demo.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/mark_generator.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/generated/json/ya_jin_entity_helper.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/generated/json/xiangmu_entity_helper.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/generated/json/b_entity_helper.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/test/AutoTypeParseUtil.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bean/response_project_item.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/src/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub/test_api-0.2.11/lib/src/backend/invoker.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="241" column="6" selection-start-line="241" selection-start-column="6" selection-end-line="241" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/src/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub/test_api-0.2.11/lib/src/backend/declarer.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="170" column="16" selection-start-line="170" selection-start-column="16" selection-end-line="170" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/generated/json/a_entity_helper.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ktxhttp_test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bean/xiangmu_entity.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/src/flutter/bin/cache/pkg/sky_engine/lib/core/object.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2997">
+          <caret line="115" column="12" selection-start-line="115" selection-start-column="12" selection-end-line="115" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bean/a_entity.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bean/ya_jin_entity.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bean/xiong_entity.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bean/b_entity.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/generated/json/base/json_convert_content.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+          <folding>
+            <element signature="e#215#265#0" expanded="true" />
+            <element signature="e#4919#6000#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/test/MyParse.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#1#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ktxhttp.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/builder.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="34" lean-forward="true" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/com/ktx/net/net_interceptor.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/src/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub/dio-3.0.9/lib/src/options.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-633">
+          <caret line="336" column="24" lean-forward="true" selection-start-line="336" selection-start-column="24" selection-end-line="336" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/src/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub/dio-3.0.9/lib/src/dio.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="93" column="39" selection-start-line="89" selection-start-column="4" selection-end-line="93" selection-end-column="39" />
+          <folding>
+            <element signature="e#519#584#0" />
+            <element signature="e#1612#1719#0" />
+            <element signature="e#1828#1858#0" />
+            <element signature="e#5719#5753#0" />
+            <element signature="e#5900#5936#0" />
+            <element signature="e#6077#6155#0" />
+            <element signature="e#8052#8130#0" />
+            <element signature="e#9882#9917#0" />
+            <element signature="e#10260#10295#0" />
+            <element signature="e#10721#10825#0" />
+            <element signature="e#11271#11339#0" />
+            <element signature="e#11624#11832#0" />
+            <element signature="e#12073#12243#0" />
+            <element signature="e#12577#12842#0" />
+            <element signature="e#13133#13360#0" />
+            <element signature="e#13692#13956#0" />
+            <element signature="e#14245#14471#0" />
+            <element signature="e#14727#14910#0" />
+            <element signature="e#15123#15268#0" />
+            <element signature="e#15529#15714#0" />
+            <element signature="e#15932#16079#0" />
+            <element signature="e#16415#16681#0" />
+            <element signature="e#16974#17202#0" />
+            <element signature="e#17307#17584#0" />
+            <element signature="e#17338#17386#0" />
+            <element signature="e#17369#17379#0" />
+            <element signature="e#17682#17921#0" />
+            <element signature="e#17708#17746#0" />
+            <element signature="e#17734#17739#0" />
+            <element signature="e#17925#17959#0" />
+            <element signature="e#18113#18155#0" />
+            <element signature="e#18159#18195#0" />
+            <element signature="e#18275#18319#0" />
+            <element signature="e#18399#18442#0" />
+            <element signature="e#18446#18524#0" />
+            <element signature="e#20429#20505#0" />
+            <element signature="e#20463#20500#0" />
+            <element signature="e#20509#20587#0" />
+            <element signature="e#22347#22606#0" />
+            <element signature="e#22995#23245#0" />
+            <element signature="e#23249#23284#0" />
+            <element signature="e#23585#23795#0" />
+            <element signature="e#24035#27915#0" />
+            <element signature="e#24060#24148#0" />
+            <element signature="e#24082#24141#0" />
+            <element signature="e#24211#24516#0" />
+            <element signature="e#24902#25072#0" />
+            <element signature="e#24927#24994#0" />
+            <element signature="e#25000#25066#0" />
+            <element signature="e#25144#25221#0" />
+            <element signature="e#25345#26160#0" />
+            <element signature="e#25593#26073#0" />
+            <element signature="e#25681#26049#0" />
+            <element signature="e#25764#25929#0" />
+            <element signature="e#25935#26016#0" />
+            <element signature="e#26079#26145#0" />
+            <element signature="e#26166#26232#0" />
+            <element signature="e#26350#26697#0" />
+            <element signature="e#26409#26624#0" />
+            <element signature="e#26520#26594#0" />
+            <element signature="e#26703#26764#0" />
+            <element signature="e#26870#26886#0" />
+            <element signature="e#27790#27850#0" />
+            <element signature="e#28011#29880#0" />
+            <element signature="e#28372#28400#0" />
+            <element signature="e#28426#28712#0" />
+            <element signature="e#28842#29421#0" />
+            <element signature="e#29081#29233#0" />
+            <element signature="e#29339#29413#0" />
+            <element signature="e#29427#29493#0" />
+            <element signature="e#29549#29631#0" />
+            <element signature="e#29637#29812#0" />
+            <element signature="e#29661#29803#0" />
+            <element signature="e#29999#30113#0" />
+            <element signature="e#30065#30109#0" />
+            <element signature="e#30205#30362#0" />
+            <element signature="e#30228#30357#0" />
+            <element signature="e#30431#33326#0" />
+            <element signature="e#30612#33235#0" />
+            <element signature="e#30687#31094#0" />
+            <element signature="e#30697#30810#0" />
+            <element signature="e#30947#31050#0" />
+            <element signature="e#31122#31356#0" />
+            <element signature="e#31154#31284#0" />
+            <element signature="e#31362#32083#0" />
+            <element signature="e#31510#31579#0" />
+            <element signature="e#31585#31670#0" />
+            <element signature="e#32067#32074#0" />
+            <element signature="e#32111#32194#0" />
+            <element signature="e#32300#32827#0" />
+            <element signature="e#32415#32528#0" />
+            <element signature="e#32534#32808#0" />
+            <element signature="e#32575#32581#0" />
+            <element signature="e#32616#32796#0" />
+            <element signature="e#32707#32782#0" />
+            <element signature="e#32865#33204#0" />
+            <element signature="e#32902#32937#0" />
+            <element signature="e#33003#33158#0" />
+            <element signature="e#33241#33305#0" />
+            <element signature="e#33434#35058#0" />
+            <element signature="e#33456#33473#0" />
+            <element signature="e#33478#33509#0" />
+            <element signature="e#33735#35053#0" />
+            <element signature="e#33831#33848#0" />
+            <element signature="e#34283#34298#0" />
+            <element signature="e#35100#35181#0" />
+            <element signature="e#35250#35359#0" />
+            <element signature="e#35273#35317#0" />
+            <element signature="e#35323#35355#0" />
+            <element signature="e#35425#35640#0" />
+            <element signature="e#35475#35504#0" />
+            <element signature="e#35510#35556#0" />
+            <element signature="e#35537#35549#0" />
+            <element signature="e#35717#36296#0" />
+            <element signature="e#35752#35820#0" />
+            <element signature="e#35853#35931#0" />
+            <element signature="e#35883#35924#0" />
+            <element signature="e#35937#36271#0" />
+            <element signature="e#35997#36264#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/src/flutter/bin/cache/pkg/sky_engine/lib/core/list.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="326" column="7" selection-start-line="326" selection-start-column="7" selection-end-line="326" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/src/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub/dio-3.0.9/lib/src/form_data.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="25" column="51" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/src/flutter/bin/cache/pkg/sky_engine/lib/core/print.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/com/ktx/net/paser.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/com/ktx/net/proxy_net_interface.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/com/ktx/net/NetManager.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/src/flutter/bin/cache/pkg/sky_engine/lib/convert/converter.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_1.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="12" column="61" lean-forward="true" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/com/ktx/net/multipartfile_covert.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/com/ktx/net/net.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-756">
+          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/com/ktx/net/net_result.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
