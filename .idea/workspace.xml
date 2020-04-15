@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96c95efe-e0c2-487c-be5a-4a51c9441662" name="Default Changelist" comment="" />
+    <list default="true" id="96c95efe-e0c2-487c-be5a-4a51c9441662" name="Default Changelist" comment="提交">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
     <ignored path="$PROJECT_DIR$/.pub/" />
@@ -39,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/com/ktx/net/net_result.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="162">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -64,6 +66,9 @@
       <find>MultiPartFileConverter</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -85,7 +90,6 @@
         <option value="$PROJECT_DIR$/lib/test/A.dart" />
         <option value="$PROJECT_DIR$/lib/bean/xiong_entity.dart" />
         <option value="$PROJECT_DIR$/lib/com/ktx/net/paser.dart" />
-        <option value="$PROJECT_DIR$/build.yaml" />
         <option value="$PROJECT_DIR$/lib/generated/json/base/json_convert_content.dart" />
         <option value="$PROJECT_DIR$/lib/test/MyParse.dart" />
         <option value="$PROJECT_DIR$/test/ktxhttp_test.dart" />
@@ -96,15 +100,17 @@
         <option value="$PROJECT_DIR$/lib/com/ktx/net/NetManager.dart" />
         <option value="$PROJECT_DIR$/lib/com/ktx/net/multipartfile_covert.dart" />
         <option value="$PROJECT_DIR$/lib/com/ktx/net/net.dart" />
+        <option value="$PROJECT_DIR$/build.yaml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-244" />
-    <option name="y" value="81" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="943" />
+    <option name="height" value="983" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -223,6 +229,14 @@
       <option name="presentableId" value="Default" />
       <updated>1586834101393</updated>
     </task>
+    <task id="LOCAL-00001" summary="提交">
+      <created>1586946317668</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586946317668</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -258,11 +272,11 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="2084" y="223" width="1936" height="943" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.80497384" visible="true" weight="0.21512875" />
-      <window_info id="Structure" order="1" sideWeight="0.19502617" side_tool="true" visible="true" weight="0.21512875" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8039702" visible="true" weight="0.21512875" />
+      <window_info id="Structure" order="1" sideWeight="0.19602978" side_tool="true" visible="true" weight="0.21512875" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Resources Explorer" order="4" />
@@ -276,7 +290,7 @@
       <window_info anchor="bottom" id="Messages" order="5" weight="0.32852387" />
       <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.48501664" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3529412" />
-      <window_info anchor="bottom" id="Find" order="8" visible="true" weight="0.15205327" />
+      <window_info anchor="bottom" id="Find" order="8" visible="true" weight="0.48857868" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Flutter Inspector" order="2" />
@@ -285,6 +299,10 @@
       <window_info anchor="right" id="Flutter Performance" order="5" />
       <window_info anchor="right" id="Hierarchy" order="6" visible="true" weight="0.020386266" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -501,13 +519,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="12" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -829,10 +840,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/com/ktx/net/net_result.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        <state relative-caret-position="162">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>

@@ -1,6 +1,7 @@
 import 'dart:convert';
 import 'package:dio/adapter.dart';
 import 'package:dio/dio.dart';
+import 'package:ktxhttp/com/ktx/net/net_result.dart';
 import 'package:ktxhttp/com/ktx/net/paser.dart';
 import 'multipartfile_covert.dart';
 
@@ -47,7 +48,7 @@ class NetManager {
     };
   }
 
-  get<T>(String path,
+  Future<NetResult<T>> get<T>(String path,
       {Map<String, dynamic> params,
         String baseUrl,
         Options options,
@@ -67,7 +68,7 @@ class NetManager {
   }
 
 
-  post<T>(String path, dynamic requestBody,
+  Future<NetResult<T>> post<T>(String path, dynamic requestBody,
       {String baseUrl, Map<String, dynamic> queryParameters,
         Options options,
         CancelToken cancelToken,
@@ -90,11 +91,13 @@ class NetManager {
   }
 
 
-  upload<T>(String path, List<dynamic>files, { Map<String,
+  Future<NetResult<T>> upload<T>(String path, List<dynamic>files, { Map<String,
       dynamic> fields, String baseUrl, Converter converter }) async {
+
+
     if (files == null || files.length == 0) {
       print('upload 上传文件集合为空！！');
-      return;
+      return NetResult<T>()..errorMsg='upload 上传文件集合为空！！'..errorCode=0x998855;
     }
     var formData = FormData();
     if (fields != null) {
