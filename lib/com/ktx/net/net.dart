@@ -1,4 +1,5 @@
 import 'dart:convert';
+import 'dart:io';
 import 'package:dio/adapter.dart';
 import 'package:dio/dio.dart';
 import 'package:ktxhttp/com/ktx/net/net_result.dart';
@@ -44,6 +45,10 @@ class NetManager {
         (client) {
       client.findProxy = (url) {
         return "PROXY $ip:$port";
+      };
+      client.badCertificateCallback =
+          (X509Certificate cert, String host, int port) {
+        return true;
       };
     };
   }

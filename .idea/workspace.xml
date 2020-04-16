@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="96c95efe-e0c2-487c-be5a-4a51c9441662" name="Default Changelist" comment="提交">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/com/ktx/net/net.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/com/ktx/net/net.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -33,42 +32,43 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/com/ktx/net/net.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="297">
+              <caret line="46" column="8" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
               <folding>
+                <element signature="e#600#621#0" />
                 <element signature="e#636#974#0" />
                 <element signature="e#652#969#0" />
                 <element signature="e#664#968#0" />
                 <element signature="e#804#878#0" />
-                <element signature="e#1022#1207#0" />
+                <element signature="e#1430#1828#0" />
                 <element signature="e#1727#1773#0" />
                 <element signature="e#1750#1766#0" />
-                <element signature="e#2114#2563#0" />
-                <element signature="e#2464#2510#0" />
-                <element signature="e#2487#2503#0" />
-                <element signature="e#2721#3543#0" />
-                <element signature="e#2775#2895#0" />
-                <element signature="e#2951#3026#0" />
-                <element signature="e#2987#3018#0" />
-                <element signature="e#3076#3265#0" />
-                <element signature="e#3144#3205#0" />
-                <element signature="e#3169#3196#0" />
-                <element signature="e#3376#3392#0" />
-                <element signature="e#3566#5432#0" />
-                <element signature="e#3819#3873#0" />
-                <element signature="e#3938#3996#0" />
-                <element signature="e#4061#4119#0" />
-                <element signature="e#4192#4241#0" />
-                <element signature="e#4307#4360#0" />
-                <element signature="e#4461#4511#0" />
-                <element signature="e#4565#4609#0" />
-                <element signature="e#4695#5430#0" />
-                <element signature="e#4735#4795#0" />
-                <element signature="e#4879#4919#0" />
-                <element signature="e#4950#5014#0" />
-                <element signature="e#5045#5109#0" />
-                <element signature="e#5133#5236#0" />
-                <element signature="e#5264#5318#0" />
+                <element signature="e#2116#2567#0" />
+                <element signature="e#2466#2512#0" />
+                <element signature="e#2489#2505#0" />
+                <element signature="e#2725#3547#0" />
+                <element signature="e#2779#2899#0" />
+                <element signature="e#2955#3030#0" />
+                <element signature="e#2991#3022#0" />
+                <element signature="e#3080#3269#0" />
+                <element signature="e#3148#3209#0" />
+                <element signature="e#3173#3200#0" />
+                <element signature="e#3380#3396#0" />
+                <element signature="e#3570#5436#0" />
+                <element signature="e#3823#3877#0" />
+                <element signature="e#3942#4000#0" />
+                <element signature="e#4065#4123#0" />
+                <element signature="e#4196#4245#0" />
+                <element signature="e#4311#4364#0" />
+                <element signature="e#4465#4515#0" />
+                <element signature="e#4569#4613#0" />
+                <element signature="e#4699#5434#0" />
+                <element signature="e#4739#4799#0" />
+                <element signature="e#4883#4923#0" />
+                <element signature="e#4954#5018#0" />
+                <element signature="e#5049#5113#0" />
+                <element signature="e#5137#5240#0" />
+                <element signature="e#5268#5322#0" />
               </folding>
             </state>
           </provider>
@@ -142,9 +142,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-39" />
+    <option name="x" value="46" />
     <option name="width" value="1936" />
-    <option name="height" value="1021" />
+    <option name="height" value="1060" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -152,6 +152,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,8 +169,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -292,11 +292,11 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-39" y="0" width="1936" height="1021" extended-state="0" />
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8013857" visible="true" weight="0.22156653" />
-      <window_info id="Structure" order="1" sideWeight="0.19861431" side_tool="true" visible="true" weight="0.22156653" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.80021256" visible="true" weight="0.2247854" />
+      <window_info id="Structure" order="1" sideWeight="0.19978745" side_tool="true" visible="true" weight="0.2247854" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Resources Explorer" order="4" />
@@ -722,42 +722,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/com/ktx/net/net.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="297">
+          <caret line="46" column="8" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
           <folding>
+            <element signature="e#600#621#0" />
             <element signature="e#636#974#0" />
             <element signature="e#652#969#0" />
             <element signature="e#664#968#0" />
             <element signature="e#804#878#0" />
-            <element signature="e#1022#1207#0" />
+            <element signature="e#1430#1828#0" />
             <element signature="e#1727#1773#0" />
             <element signature="e#1750#1766#0" />
-            <element signature="e#2114#2563#0" />
-            <element signature="e#2464#2510#0" />
-            <element signature="e#2487#2503#0" />
-            <element signature="e#2721#3543#0" />
-            <element signature="e#2775#2895#0" />
-            <element signature="e#2951#3026#0" />
-            <element signature="e#2987#3018#0" />
-            <element signature="e#3076#3265#0" />
-            <element signature="e#3144#3205#0" />
-            <element signature="e#3169#3196#0" />
-            <element signature="e#3376#3392#0" />
-            <element signature="e#3566#5432#0" />
-            <element signature="e#3819#3873#0" />
-            <element signature="e#3938#3996#0" />
-            <element signature="e#4061#4119#0" />
-            <element signature="e#4192#4241#0" />
-            <element signature="e#4307#4360#0" />
-            <element signature="e#4461#4511#0" />
-            <element signature="e#4565#4609#0" />
-            <element signature="e#4695#5430#0" />
-            <element signature="e#4735#4795#0" />
-            <element signature="e#4879#4919#0" />
-            <element signature="e#4950#5014#0" />
-            <element signature="e#5045#5109#0" />
-            <element signature="e#5133#5236#0" />
-            <element signature="e#5264#5318#0" />
+            <element signature="e#2116#2567#0" />
+            <element signature="e#2466#2512#0" />
+            <element signature="e#2489#2505#0" />
+            <element signature="e#2725#3547#0" />
+            <element signature="e#2779#2899#0" />
+            <element signature="e#2955#3030#0" />
+            <element signature="e#2991#3022#0" />
+            <element signature="e#3080#3269#0" />
+            <element signature="e#3148#3209#0" />
+            <element signature="e#3173#3200#0" />
+            <element signature="e#3380#3396#0" />
+            <element signature="e#3570#5436#0" />
+            <element signature="e#3823#3877#0" />
+            <element signature="e#3942#4000#0" />
+            <element signature="e#4065#4123#0" />
+            <element signature="e#4196#4245#0" />
+            <element signature="e#4311#4364#0" />
+            <element signature="e#4465#4515#0" />
+            <element signature="e#4569#4613#0" />
+            <element signature="e#4699#5434#0" />
+            <element signature="e#4739#4799#0" />
+            <element signature="e#4883#4923#0" />
+            <element signature="e#4954#5018#0" />
+            <element signature="e#5049#5113#0" />
+            <element signature="e#5137#5240#0" />
+            <element signature="e#5268#5322#0" />
           </folding>
         </state>
       </provider>
