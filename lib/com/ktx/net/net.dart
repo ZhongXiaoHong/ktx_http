@@ -64,7 +64,7 @@ class NetManager {
     if (_parser == null && parser == null) {
       throw Exception('没有配置数据解析器...');
     }
-    return _parser ?? parser.parse<T>(response);
+    return (_parser ?? parser).parse<T>(response);
   }
 
 
@@ -87,7 +87,7 @@ class NetManager {
     if (_parser == null && parser == null) {
       throw Exception('没有配置数据解析器...');
     }
-    return _parser ?? parser.parse<T>(response);
+    return (_parser ?? parser).parse<T>(response);
   }
 
 
