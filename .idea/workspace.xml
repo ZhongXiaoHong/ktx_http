@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96c95efe-e0c2-487c-be5a-4a51c9441662" name="Default Changelist" comment="提交">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="96c95efe-e0c2-487c-be5a-4a51c9441662" name="Default Changelist" comment="提交" />
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
     <ignored path="$PROJECT_DIR$/.pub/" />
@@ -29,20 +27,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/com/ktx/net/net.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-756">
-              <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+            <state relative-caret-position="216">
+              <caret line="94" column="69" lean-forward="true" selection-start-line="94" selection-start-column="69" selection-end-line="94" selection-end-column="69" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/com/ktx/net/net_result.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="27">
+              <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -99,14 +97,14 @@
         <option value="$PROJECT_DIR$/lib/com/ktx/net/proxy_net_interface.dart" />
         <option value="$PROJECT_DIR$/lib/com/ktx/net/NetManager.dart" />
         <option value="$PROJECT_DIR$/lib/com/ktx/net/multipartfile_covert.dart" />
-        <option value="$PROJECT_DIR$/lib/com/ktx/net/net.dart" />
         <option value="$PROJECT_DIR$/build.yaml" />
+        <option value="$PROJECT_DIR$/lib/com/ktx/net/net.dart" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="86" />
+    <option name="y" value="19" />
     <option name="width" value="1936" />
     <option name="height" value="983" />
   </component>
@@ -272,11 +270,11 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2084" y="223" width="1936" height="943" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8039702" visible="true" weight="0.21512875" />
-      <window_info id="Structure" order="1" sideWeight="0.19602978" side_tool="true" visible="true" weight="0.21512875" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8043185" visible="true" weight="0.21512875" />
+      <window_info id="Structure" order="1" sideWeight="0.19568151" side_tool="true" visible="true" weight="0.21512875" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Resources Explorer" order="4" />
@@ -290,7 +288,7 @@
       <window_info anchor="bottom" id="Messages" order="5" weight="0.32852387" />
       <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.48501664" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3529412" />
-      <window_info anchor="bottom" id="Find" order="8" visible="true" weight="0.48857868" />
+      <window_info anchor="bottom" id="Find" order="8" visible="true" weight="0.17758046" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Flutter Inspector" order="2" />
@@ -826,20 +824,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/com/ktx/net/multipartfile_covert.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/com/ktx/net/net.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-756">
-          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -849,8 +833,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/com/ktx/net/net_result.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="27">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/com/ktx/net/multipartfile_covert.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/com/ktx/net/net.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="94" column="69" lean-forward="true" selection-start-line="94" selection-start-column="69" selection-end-line="94" selection-end-column="69" />
         </state>
       </provider>
     </entry>

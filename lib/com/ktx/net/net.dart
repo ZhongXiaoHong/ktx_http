@@ -92,7 +92,7 @@ class NetManager {
 
 
   Future<NetResult<T>> upload<T>(String path, List<dynamic>files, { Map<String,
-      dynamic> fields, String baseUrl, Converter converter }) async {
+      dynamic> fields, String baseUrl, MultiPartFileConverter converter }) async {
 
 
     if (files == null || files.length == 0) {
