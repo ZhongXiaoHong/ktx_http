@@ -108,7 +108,8 @@ class NetManager {
       if (_converter == null && converter == null) {
         throw Exception('没有配置MultipartFile转换器...');
       }
-      return _converter ?? converter.convert(e);
+
+      return (_converter ?? converter).convert(e);
     })).then((dataList) {
       return dataList;
     });
