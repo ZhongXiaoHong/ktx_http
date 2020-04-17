@@ -96,8 +96,7 @@ class NetManager {
   }
 
 
-  Future<NetResult<T>> upload<T>(String path, List<dynamic>files, { Map<String,
-      dynamic> fields, String baseUrl, MultiPartFileConverter converter }) async {
+  Future<NetResult<T>> upload<T>(String path, List<dynamic>files, {  List<MapEntry<String, String>>fields, String baseUrl, MultiPartFileConverter converter,String fileFlag:'file' }) async {
 
 
     if (files == null || files.length == 0) {
@@ -105,8 +104,8 @@ class NetManager {
       return NetResult<T>()..errorMsg='upload 上传文件集合为空！！'..errorCode=0x998855;
     }
     var formData = FormData();
-    if (fields != null) {
-      formData.fields.add(MapEntry('content', jsonEncode(fields)));
+    if (fields != null&&fields.length>0) {
+      formData.fields.addAll(fields);
     }
 
     List<MultipartFile> list = await Future.wait(files.map((e) {
@@ -120,7 +119,7 @@ class NetManager {
     });
 
     list.forEach((value) {
-      formData.files.add(MapEntry('files', value));
+      formData.files.add(MapEntry(fileFlag, value));
     });
 
     Response response = await _dio.post(baseUrl ?? _baseUrl + path,
