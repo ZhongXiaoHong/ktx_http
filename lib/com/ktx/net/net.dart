@@ -80,7 +80,7 @@ class NetManager {
         ProgressCallback onSendProgress,
         ProgressCallback onReceiveProgress, Parser parser}) async {
     Response response = await _dio.post(
-        baseUrl ?? _baseUrl + path,
+        (baseUrl ?? _baseUrl) + path,
         data: requestBody,
         queryParameters: queryParameters,
         options: options,
@@ -122,7 +122,7 @@ class NetManager {
       formData.files.add(MapEntry(fileFlag, value));
     });
 
-    Response response = await _dio.post(baseUrl ?? _baseUrl + path,
+    Response response = await _dio.post((baseUrl ?? _baseUrl) + path,
       data: formData,
     );
     return _parser.parse<T>(response);
